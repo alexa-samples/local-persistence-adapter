@@ -1,3 +1,6 @@
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 # Alexa local persistence adapter (for Node.js)
 
 The local persistence adapter is a convenient and simple persistence adapter to use when you're developing and debugging on your local computer instead of developing remotely with a Lambda function via AWS Lambda or Alexa Hosted Skills.
